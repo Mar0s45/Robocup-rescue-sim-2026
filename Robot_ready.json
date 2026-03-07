@@ -58,7 +58,7 @@
 	"camera1": {
 		"dictName": "camera1",
 		"name": "Camera",
-		"customName": "camera",
+		"customName": "camera1",
 		"type": "add",
 		"x": 322,
 		"y": 127,
